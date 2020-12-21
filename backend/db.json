@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Giovana Pereria",
+      "email": "ppgiovana@gmail.com"
+    },
+    {
+      "name": "João Teixeira",
+      "email": "jpteixeira1308@gmail.com",
+      "id": 3
+    }
+  ]
+}
